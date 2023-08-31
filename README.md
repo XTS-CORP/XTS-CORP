@@ -4,6 +4,8 @@
    <h3 align="center">¡Hey 👋! Bienvenidos al repositorio de Xternal </h3>
 </p>
 
+ <img width='400' align="center" src='https://raw.githubusercontent.com/XTS-CORP/XTS-CORP/main/assets/gifs-de-programador-34.gif' alt='Programa pero no abuses  :) ' />
+
 ### 📝 Tips para creacion de un proyecto en el repositorio
 - Siempre crear el README.md
 - Simpre poner una imagen del aplicativo creado en el README.md
