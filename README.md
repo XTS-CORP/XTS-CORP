@@ -1,5 +1,5 @@
 ### Bienvenidos al repositorio de Xternal 👋
-### http://xternal.biz/wp-content/uploads/2017/11/xternal-logo-blue-4.png
+![Fondo](https://raw.githubusercontent.com/XTS-CORP/XTS-CORP/main/assets/xternal-logo-blue-4.png)
 
 <!--
 **XTS-CORP/XTS-CORP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
